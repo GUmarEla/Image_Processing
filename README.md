@@ -35,7 +35,7 @@ inverse_gradient(image, kernel_dimension)\
 top_hat(image, kernel_dimension)\
 black_hat(image, kernel_dimension)
 
-4 - ColorImage Processing\
+4 - Color Image Processing\
 RGB_to_Gray(image)\
 RGB_to_HSV(image)\
 RGB_to_HLS(image)
